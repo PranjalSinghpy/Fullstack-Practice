@@ -1,59 +1,106 @@
 <!DOCTYPE html>
-<html>
-    <div style="margin: 20px;">
-    <head>
-        <title>
-            <h1>Abdul Kalaam</h1>
-            <h2>The Missile Man of India</h2>
-        </title>
-    </head><body>
-        <main>
-        <figure>
-    <img src="https://cdn.britannica.com/48/222648-050-F4D0A2D8/President-of-India-A-P-J-Abdul-Kalam-2007.jpg" alt="Picture of Abdul Kalaam" width="500" height="auto">
-    <figcaption>A.P.J Abdul Kalaam</figcaption>
-    </figure>
-    <style>
-        figure {
-    text-align: center;
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Abdul Kalam - The Missile Man of India</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      line-height: 1.6;
+    }
+    header {
+      text-align: center;
+    }
+    figure {
+      text-align: center;
     }
     figcaption {
-        font-style: bold;
-        color: gray;
-        }
-</style>
-<section>
-<h3>Life</h3>
-<p>He was born to a rather modest Muslim family. He was born as the youngest of five siblings. Despite financial difficulties, he was a shining performer in academia, particularly in mathematics. This exceptional academic performance led him to Saint Joseph's College, Tiruchirapalli, which granted him a Physics degree in 1954. Kalam then pursued Aeronautical Engineering at the Madras Institute of Technology and graduated in 1960.</p>
-</section>
-<section>
-<h3>Achievement</h3>
-<p>Kalam's professional career was initiated when he joined DRDO and worked on a Hovercraft design. He rose to critical importance when he became, in 1969, the project director for SLV-III in the Indian Space Research Organisation (ISRO), where he led the team that achieved orbiting of Rohini satellite in 1980. This facilitated a huge stepping stone in India's progress in space technology.
+      font-weight: bold;
+      color: gray;
+    }
+    nav ul {
+      list-style-type: none;
+      background-color: #f4f4f4;
+      padding: 10px;
+      text-align: center;
+    }
+    nav ul li {
+      display: inline;
+      margin: 0 10px;
+    }
+    nav ul li a {
+      text-decoration: none;
+      color: #333;
+    }
+    nav ul li a:hover {
+      color: #007BFF;
+    }
+    footer {
+      text-align: center;
+      margin-top: 30px;
+      font-size: 14px;
+      color: gray;
+    }
+  </style>
+</head>
 
-In the late 1980s, Kalam moved on to missile design and headed the Integrated Guided Missile Development Programme (IGMDP). His efforts resulted in the successful development of key missiles such as AGNI and PRITHVI, which became the backbone of Indian defence capabilities.</p>
-</section>
-<section>
-<h3>Awards</h3>
-<p>Kalam received numerous accolades throughout his life, including:
+<body>
+  <header>
+    <h1>Dr. A.P.J. Abdul Kalam</h1>
+    <h2>The Missile Man of India</h2>
+  </header>
 
-Padma Bhushan (1981)
-Padma Vibhushan (1990)
-Bharat Ratna (1997), India's highest civilian award.</p></section>
-<section>
-<h3>Timeline</h3>
-<ol><li>Padma Bhushan-1981</li>
-    <li>Padma Vibhushan-1990</li>
-    <li>Bharat Ratna-1997</li>
-</ol>
-<blockquote>"Dream, dream, dream. Dreams transform into thoughts, and thoughts result in action."</blockquote>
-<a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam"></a></main></section>
-<footer>Created by Pranjal Singh</footer>
-<nav>
-        <ul class="navbar">
-            <li><a href="#section1">Life</a></li>
-            <li><a href="#section2">Achievements</a></li>
-            <li><a href="#section3">Awards</a></li>
-            <li><a href="#section4">Timeline</a></li>
-        </ul>
-        </nav></div>
-    </body>
+  <nav>
+    <ul>
+      <li><a href="#life">Life</a></li>
+      <li><a href="#achievements">Achievements</a></li>
+      <li><a href="#awards">Awards</a></li>
+      <li><a href="#timeline">Timeline</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <figure>
+      <img src="https://cdn.britannica.com/48/222648-050-F4D0A2D8/President-of-India-A-P-J-Abdul-Kalam-2007.jpg"
+           alt="A.P.J. Abdul Kalam" width="400">
+      <figcaption>Dr. A.P.J. Abdul Kalam (1931–2015)</figcaption>
+    </figure>
+
+    <section id="life">
+      <h3>Life</h3>
+      <p>He was born to a modest Muslim family and was the youngest of five siblings. Despite financial difficulties, he excelled in academics, especially in mathematics...</p>
+    </section>
+
+    <section id="achievements">
+      <h3>Achievements</h3>
+      <p>Kalam’s career began at DRDO, where he designed a hovercraft. Later, at ISRO, he led the team that launched India’s first satellite launch vehicle...</p>
+    </section>
+
+    <section id="awards">
+      <h3>Awards</h3>
+      <ul>
+        <li>Padma Bhushan (1981)</li>
+        <li>Padma Vibhushan (1990)</li>
+        <li>Bharat Ratna (1997)</li>
+      </ul>
+    </section>
+
+    <section id="timeline">
+      <h3>Timeline</h3>
+      <ol>
+        <li>1981 – Received Padma Bhushan</li>
+        <li>1990 – Received Padma Vibhushan</li>
+        <li>1997 – Received Bharat Ratna</li>
+      </ol>
+      <blockquote>"Dream, dream, dream. Dreams transform into thoughts, and thoughts result in action."</blockquote>
+      <p><a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam" target="_blank">Learn more on Wikipedia</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Created by Pranjal Singh</p>
+  </footer>
+</body>
 </html>
