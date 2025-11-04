@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <div style="margin: 20px;">
+    <head>
+        <title>
+            <h1>Abdul Kalaam</h1>
+            <h2>The Missile Man of India</h2>
+        </title>
+    </head><body>
+        <main>
+        <figure>
+    <img src="https://cdn.britannica.com/48/222648-050-F4D0A2D8/President-of-India-A-P-J-Abdul-Kalam-2007.jpg" alt="Picture of Abdul Kalaam" width="500" height="auto">
+    <figcaption>A.P.J Abdul Kalaam</figcaption>
+    </figure>
+    <style>
+        figure {
+    text-align: center;
+    }
+    figcaption {
+        font-style: bold;
+        color: gray;
+        }
+</style>
+<section>
+<h3>Life</h3>
+<p>He was born to a rather modest Muslim family. He was born as the youngest of five siblings. Despite financial difficulties, he was a shining performer in academia, particularly in mathematics. This exceptional academic performance led him to Saint Joseph's College, Tiruchirapalli, which granted him a Physics degree in 1954. Kalam then pursued Aeronautical Engineering at the Madras Institute of Technology and graduated in 1960.</p>
+</section>
+<section>
+<h3>Achievement</h3>
+<p>Kalam's professional career was initiated when he joined DRDO and worked on a Hovercraft design. He rose to critical importance when he became, in 1969, the project director for SLV-III in the Indian Space Research Organisation (ISRO), where he led the team that achieved orbiting of Rohini satellite in 1980. This facilitated a huge stepping stone in India's progress in space technology.
+
+In the late 1980s, Kalam moved on to missile design and headed the Integrated Guided Missile Development Programme (IGMDP). His efforts resulted in the successful development of key missiles such as AGNI and PRITHVI, which became the backbone of Indian defence capabilities.</p>
+</section>
+<section>
+<h3>Awards</h3>
+<p>Kalam received numerous accolades throughout his life, including:
+
+Padma Bhushan (1981)
+Padma Vibhushan (1990)
+Bharat Ratna (1997), India's highest civilian award.</p></section>
+<section>
+<h3>Timeline</h3>
+<ol><li>Padma Bhushan-1981</li>
+    <li>Padma Vibhushan-1990</li>
+    <li>Bharat Ratna-1997</li>
+</ol>
+<blockquote>"Dream, dream, dream. Dreams transform into thoughts, and thoughts result in action."</blockquote>
+<a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam"></a></main></section>
+<footer>Created by Pranjal Singh</footer>
+<nav>
+        <ul class="navbar">
+            <li><a href="#section1">Life</a></li>
+            <li><a href="#section2">Achievements</a></li>
+            <li><a href="#section3">Awards</a></li>
+            <li><a href="#section4">Timeline</a></li>
+        </ul>
+        </nav></div>
+    </body>
+</html>
